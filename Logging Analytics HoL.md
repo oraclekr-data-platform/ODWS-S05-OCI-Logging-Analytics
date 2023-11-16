@@ -47,6 +47,9 @@
 
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116164043.png)
 
+
+![[assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116165354.png]]
+
 1. 데이터 확인
 2. 대시보드 만들기
 3. 레퍼런스
