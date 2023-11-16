@@ -14,7 +14,7 @@
 6) 대시보드 생성
 
 1. 환경 구성 > 1) 리전 선택(Seoul)
-   ![[Pasted image 20231115113450.png]]
+   ![image](https://github.com/guruwiz/ODWS-S05-OCI-Logging-Analytics/assets/17739592/1ac3d214-481e-4c79-a244-18f660ab4b3a)
 
 1. 환경 구성 > 2) Log Groups 생성
    ![[Pasted image 20231115113533.png]]
@@ -37,7 +37,11 @@
 
 1. 환경 구성 > 4) Service Connector 연결을 통한 Logging Analytics 연결
 
-![[Pasted image 20231115123515.png]]
+![[Pasted image 20231116155616.png]]
+
+
+![[Pasted image 20231116155634.png]]
+
 
 
 

@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "bd742c98d346f7c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "acbc13f114cb90d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cecb551caad1a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logging Analytics HoL.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8fe37d3ab37dbec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6fa12e3c319b721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7c75dce3c9c1ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0663336aa3a456c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e54a6e3e6284209",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "059d0056832f3388",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc92c37e8d26eb9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00f188892a08db67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logging Analytics HoL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8930fcf7738c958f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Logging Analytics HoL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "89eb7f1621eb8c83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ccde69fb6071da15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Logging Analytics HoL.md"
+              }
+            }
+          },
+          {
+            "id": "55723d5219f3097e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7cecb551caad1a95",
+  "lastOpenFiles": [
+    "img/Pasted image 20231116155634.png",
+    "Logging Analytics HoL.md",
+    "img/Pasted image 20231116155616.png",
+    "img/Pasted image 20231116155605.png",
+    "img/Pasted image 20231115122742.png",
+    "img/Pasted image 20231115113533.png",
+    "img/Pasted image 20231115113450.png",
+    "img/Pasted image 20231115113301.png",
+    "Pasted image 20231115113301.png",
+    "Pasted image 20231115113450.png",
+    "Pasted image 20231115113533.png",
+    "Untitled.canvas",
+    "img",
+    "Pasted image 20231115112200.png.md",
+    "Pasted image 20231114105312.png.md"
+  ]
+}
