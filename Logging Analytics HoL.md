@@ -118,10 +118,6 @@ ___
 - Logging Analytics – get started  
 [https://docs.oracle.com/en-us/iaas/logging-analytics/index.html](https://docs.oracle.com/en-us/iaas/logging-analytics/index.html)
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> origin/main
 - Logging analytics 관련 링크
 [https://docs.oracle.com/en-us/iaas/logging-analytics/doc/logging-analytics1.html](https://docs.oracle.com/en-us/iaas/logging-analytics/doc/logging-analytics1.html)
 
