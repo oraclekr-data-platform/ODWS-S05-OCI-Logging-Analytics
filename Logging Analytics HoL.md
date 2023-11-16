@@ -1,20 +1,18 @@
 
-## 환경 구성
+### 1.환경 구성
 - 모던 데이터 플랫폼 데모 아키텍처
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116204823.png)
 
-
-
-데모 시나리오
-   
+- **데모 시나리오
 1) Log Group 생성
 2) Logging Analytics 관리메뉴에서 Field, Parser, Source에 대해 정의
 3) SCH(Service Connector Hub)생성
 4) 데이터 확인(Streaming, Logging Analytics)
 5) Log Explorer에서 다양한 조회에 따른 Query 저장
 6) 대시보드 생성
-
-1. 환경 구성 > 1) 리전 선택(Seoul)
-   ![image](img/Pasted image 20231115112427.PNG)
+___
+##### 1. 환경 구성 > 1) 리전 선택(Seoul)
+   
 
 1. 환경 구성 > 2) Log Groups 생성
    
