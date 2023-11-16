@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "./assets/Logging Analytics HoL",
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
