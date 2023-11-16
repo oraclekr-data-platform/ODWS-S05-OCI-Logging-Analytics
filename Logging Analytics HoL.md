@@ -2,7 +2,8 @@
 ### 1.환경 구성
 - 모던 데이터 플랫폼 데모 아키텍처
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116204823.png)
-
+- 데이터 플랫폼 데이터 시각화 - Logging Analytics를 활용한 분석
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116222254.png)
 - **데모 시나리오
 1) Log Group 생성
 2) Logging Analytics 관리메뉴에서 Field, Parser, Source에 대해 정의
@@ -12,13 +13,12 @@
 6) 대시보드 생성
 ___
 ##### 1. 환경 구성 > 1) 리전 선택(Seoul)
-   
-
-1. 환경 구성 > 2) Log Groups 생성
-   
-   • Observability & Management > Logging Analytics > Administration
-   • 개인 별 Compartment 선택
-   • “Create Log Group” **클릭**
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116222440.png)
+#####  1. 환경 구성 > 2) Log Groups 생성
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116222637.png)
+- Observability & Management > Logging Analytics > Administration
+- 개인 별 Compartment 선택
+- “Create Log Group” **클릭**
    
    • <name>_dataplatform_grp로 이름 입력
    • “Create” 클릭
