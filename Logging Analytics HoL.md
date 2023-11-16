@@ -12,6 +12,8 @@
 5) Log Explorer에서 다양한 조회에 따른 Query 저장
 6) 대시보드 생성
 ___
+
+### 1.환경 구성
 ##### 1. 환경 구성 > 1) 리전 선택(Seoul)
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116222440.png)
 #####  1. 환경 구성 > 2) Log Groups 생성
@@ -40,6 +42,7 @@ ___
 	-  서비스 커넥터가 구획의 스트리밍에서 읽을 수 있도록 허용하는 default policy 생성(create 클릭)
 	-  이 서비스 커넥터가 구획의 Logging Analytics에 쓸 수 있도록 허용하는 default policy 생성(create 클릭)
 
+---
 ### 2.데이터 확인
 ##### 2. 데이터 확인 >  Log Explorer 탐색 
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116232639.png)
@@ -54,6 +57,7 @@ ___
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116232952.png)
 - 다양한 쿼리를 통해서 로그 데이터에 대한 좀 더 상세한 분석
 
+---
 ### 3.대시보드 만들기
 ##### 3. 대시보드 만들기 > 1)Custom 대시보드 생성 
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116233333.png)
@@ -109,11 +113,12 @@ ___
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116234628.png)
 - 최종 결과물 확인
 
-
+---
 ### 4.레퍼런스
 - Logging Analytics – get started  
 [https://docs.oracle.com/en-us/iaas/logging-analytics/index.html](https://docs.oracle.com/en-us/iaas/logging-analytics/index.html)
 
+<<<<<<< HEAD
 - Logging analytics 관련 링크
 [https://docs.oracle.com/en-us/iaas/logging-analytics/doc/logging-analytics1.html](https://docs.oracle.com/en-us/iaas/logging-analytics/doc/logging-analytics1.html)
 
@@ -122,3 +127,4 @@ ___
 
 - Logging Analytics 관련 livelabs
 [https://apexapps.oracle.com/pls/apex/f?p=133:100:1226308095696::::SEARCH:logging%20analytics](https://apexapps.oracle.com/pls/apex/f?p=133:100:1226308095696::::SEARCH:logging%20analytics)
+

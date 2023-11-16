@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0393eb4b900301ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logging Analytics HoL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,26 +169,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cecb551caad1a95",
+  "active": "0393eb4b900301ab",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Logging Analytics HoL.md",
+    "assets/Logging Analytics HoL/Pasted image 20231116222440.png",
+    "assets/Logging Analytics HoL/Pasted image 20231116222254.png",
+    "assets/Logging Analytics HoL/Pasted image 20231116204823.png",
+    "assets/Logging Analytics HoL/Pasted image 20231116164043.png",
     "assets/Logging Analytics HoL/Pasted image 20231116234628.png",
+    "Pasted image 20231115122742.png.md",
+    "assets/Logging Analytics HoL/b",
     "assets/Logging Analytics HoL/Pasted image 20231116234602.png",
     "assets/Logging Analytics HoL/Pasted image 20231116234528.png",
     "assets/Logging Analytics HoL/Pasted image 20231116234421.png",
     "assets/Logging Analytics HoL/Pasted image 20231116234306.png",
     "assets/Logging Analytics HoL/Pasted image 20231116233911.png",
-    "assets/Logging Analytics HoL/Pasted image 20231116233824.png",
-    "assets/Logging Analytics HoL/Pasted image 20231116233739.png",
-    "assets/Logging Analytics HoL/Pasted image 20231116233718.png",
-    "assets/Logging Analytics HoL/Pasted image 20231116233631.png",
-    "assets/Logging Analytics HoL/Pasted image 20231116233503.png",
     "img/Pasted.md",
-    "Logging Analytics HoL.md",
     "img",
     "templates/Daily Note Template.md",
     "templates",
     "새 폴더",
-    "assets/Logging Analytics HoL/b",
     "Logging Analytics HoL",
     "assets/Logging Analytics HoL",
     "assets",
