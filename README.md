@@ -1,1 +1,0 @@
-# ODWS-S05-OCI-Logging-Analytics
