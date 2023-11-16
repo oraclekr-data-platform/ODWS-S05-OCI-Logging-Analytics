@@ -15,7 +15,7 @@
               "state": {
                 "file": "Logging Analytics HoL.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -128,20 +128,13 @@
                 "file": "Logging Analytics HoL.md"
               }
             }
-          },
-          {
-            "id": "55723d5219f3097e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,16 +151,17 @@
   "active": "7cecb551caad1a95",
   "lastOpenFiles": [
     "img/Pasted image 20231116155634.png",
-    "Logging Analytics HoL.md",
-    "img/Pasted image 20231116155616.png",
-    "img/Pasted image 20231116155605.png",
     "img/Pasted image 20231115122742.png",
-    "img/Pasted image 20231115113533.png",
-    "img/Pasted image 20231115113450.png",
     "img/Pasted image 20231115113301.png",
+    "img/Pasted image 20231115112427.png",
+    "img/Pasted.md",
+    "Logging Analytics HoL.md",
+    "img/Pasted image 20231115113450.png",
+    "img/Pasted image 20231115113533.png",
+    "img/Pasted image 20231116155605.png",
+    "img/Pasted image 20231116155616.png",
     "Pasted image 20231115113301.png",
     "Pasted image 20231115113450.png",
-    "Pasted image 20231115113533.png",
     "Untitled.canvas",
     "img",
     "Pasted image 20231115112200.png.md",
