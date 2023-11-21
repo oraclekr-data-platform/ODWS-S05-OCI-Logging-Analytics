@@ -40,11 +40,34 @@ ___
 - Name : 적절한 이름을 입력 (예: livelab_value), Data Type: String 선택
 - "Create" 클릭
 #####  1. 환경 구성 > 4) Parser  정의 
-![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121175938.png)
-
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121180656.png)
 - Logging Analytics > Administration > Parsers 선택
-- "Create Parser" 클릭
-#####  1. 환경 구성 > 3) Service Connector 연결을 통한 Logging Analytics 연결
+- "Create Parser" 클릭해서 JSON type 선택
+
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121181202.png)
+- 1) Name 입력 (예 : lab_parser)
+  2) Type : JSON
+  3) Example log content
+	{
+	  "key": "a2V5MQ==",
+         "value": "dmFsdWUx"
+	}
+  4) $.key와 $value는 정의했던 Field를 선택 (예 : $.key: livelab_key, $.value: livelab_value)
+
+- "Create Parser" 클릭하여 생성
+  
+#####  1. 환경 구성 > 5) Source  정의 
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121182302.png)
+- Logging Analytics > Administration > Sources 선택
+- "Create Source" 클릭
+
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121182615.png)
+- 1) Name 입력 (예 : lab_source)
+  2) Source Type : File
+  3) Entity Types : Host(Linux)
+  4) Parser : Specific parser(s) : lab_parser
+- "Create Source" 클릭
+#####  1. 환경 구성 > 6) Service Connector 연결을 통한 Logging Analytics 연결
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116231443.png)
 - Connector name 입력 : {name}-sch
 - Configure service connector 지정
