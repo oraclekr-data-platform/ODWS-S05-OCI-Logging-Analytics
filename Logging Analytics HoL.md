@@ -118,12 +118,12 @@ ___
 - Logging Analytics – get started  
 [https://docs.oracle.com/en-us/iaas/logging-analytics/index.html](https://docs.oracle.com/en-us/iaas/logging-analytics/index.html)
 
-- Logging analytics 관련 링크
+- Logging analytics 관련 링크  
 [https://docs.oracle.com/en-us/iaas/logging-analytics/doc/logging-analytics1.html](https://docs.oracle.com/en-us/iaas/logging-analytics/doc/logging-analytics1.html)
 
-- Getting started with OCI Logging Analytics dashboards
+- Getting started with OCI Logging Analytics dashboards  
 [https://blogs.oracle.com/cloud-infrastructure/post/start-oci-logging-analytics-dashboards](https://blogs.oracle.com/cloud-infrastructure/post/start-oci-logging-analytics-dashboards)
 
-- Logging Analytics 관련 livelabs
+- Logging Analytics 관련 livelabs  
 [https://apexapps.oracle.com/pls/apex/f?p=133:100:1226308095696::::SEARCH:logging%20analytics](https://apexapps.oracle.com/pls/apex/f?p=133:100:1226308095696::::SEARCH:logging%20analytics)
 
