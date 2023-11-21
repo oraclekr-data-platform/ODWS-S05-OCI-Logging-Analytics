@@ -27,7 +27,7 @@ ___
 - {name}_"dataplatform_grp로 이름 입력
 - "Create" 클릭
 
-#####  1. 환경 구성 > 3) Fields  정의 
+#####  1. 환경 구성 > 3) Field  정의 
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121175030.png)
 - Logging Analytics > Administration > Fields 선택
 - "Create Field" 클릭
