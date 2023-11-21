@@ -74,7 +74,7 @@ ___
 	  "key": "a2V5MQ==",
          "value": "dmFsdWUx"
 	}`
-  4) $.key와 $value는 정의했던 Field를 선택 (예 : $.key: livelab_key, $.value: livelab_value)
+  4) $.key와 $.value는 정의했던 Field를 선택 (예 : $.key: livelab_key, $.value: livelab_value)
 
 - "Create Parser" 클릭하여 생성
   
