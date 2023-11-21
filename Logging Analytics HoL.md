@@ -1,4 +1,26 @@
 
+### 0. Prerequisite
+- Logging Analytics는 리전 서비스입니다.(리전마다 별도 설정)
+- 시작하기 전 리전을 선택 합니다.
+- User 그룹 생성, Compartment 생성, User 그룹에 대한 액세스 정책 정의와 같은 사전 필수 작업을 완료한 후 Oracle Logging Analytics에 액세스하여 사용할 수 있도록 활성화할 수 있습니다. Oracle Logging Analytics를 활성화하려면 관리자 그룹의 구성원이어야 합니다.
+- Observability & Management > Logging Analytics 클릭
+- 이 리전에서 서비스를 처음 사용하는 경우 서비스에 대한 높은 수준의 세부 정보와 Oracle Logging Analytics 서비스 사용을 시작하기 위한 옵션을 제공하는 온보딩 페이지로 이동하게 됩니다.
+- 로깅 분석 활성화(Enable Logging Analytics) 대화 상자가 표시됩니다. 여기에는 아직 존재하지 않는 경우 최소 필수 정책 및 로그 그룹이 생성됩니다.
+- 로그 수집을 시작하려면 수집 설정(Set Up Ingestion)을 클릭합니다.
+- 호스트에서 지속적으로 로그를 수집하기 위해 Management Agent를 설치할 것인지 확인하세요. 또한 분석을 위해 OCI 감사 로그를 수집할지 여부를 확인할 수 있습니다. 기본 설정에 따라 정책이 생성되고 적절한 작업이 수행됩니다.
+- 온보딩이 완료되면 Oracle Logging Analytics를 탐색할 수 있습니다.
+   자세한 내용은 아래 링크를 참조합니다.  
+   https://docs.oracle.com/en-us/iaas/logging-analytics/doc/quick-start.html
+   
+   https://docs.oracle.com/en-us/iaas/logging-analytics/doc/enable-access-logging-analytics-and-its-resources.html
+   
+   https://docs.oracle.com/en/cloud/paas/logging-analytics/logqs/#before_you_begin
+   
+- IAM policies 참고 사항  
+  
+  별도 유저 그룹을 생성하여 사용하는 경우 아래 Policies를 참고하여 설정해줘야 합니다.  
+  https://docs.oracle.com/en-us/iaas/logging-analytics/doc/prerequisite-iam-policies.html#GUID-4CA8D8F4-2218-4C14-AF73-40111C459270
+  
 ### 1.환경 구성
 - 모던 데이터 플랫폼 데모 아키텍처
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116204823.png)
@@ -48,10 +70,10 @@ ___
 - 1) Name 입력 (예 : lab_parser)
   2) Type : JSON
   3) Example log content
-	{
+	`{
 	  "key": "a2V5MQ==",
          "value": "dmFsdWUx"
-	}
+	}`
   4) $.key와 $value는 정의했던 Field를 선택 (예 : $.key: livelab_key, $.value: livelab_value)
 
 - "Create Parser" 클릭하여 생성
