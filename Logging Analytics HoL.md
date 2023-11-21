@@ -94,7 +94,7 @@ ___
 
 ##### 3. 대시보드 만들기 > 3) 기타 다양한 쿼리를 사용하여 Custom 대시보드에 저장 
 - 같은 방식으로 아래 Query들을 활용하여 나머지 대시보드로 만듭니다
-	- * | stats count as logrecords by 'Log Source’  -> Visualizations : Pie 선택
+	- \* | stats count as logrecords by 'Log Source’  -> Visualizations : Pie 선택
 	- 'Log Source' = lab_source | stats count by 'Log Source' | rename Count as 'Total livelabs’ -> Visualizations : Pie 선택
 	- 'Log Source' = lab_source | search 'python' | timestats count as logrecords by 'Log Source' | rename logrecords as 'Livelabs with python’ -> Visualizations : Line 선택
 	- 'Log Source' = lab_source | cluster -> Visualizations : Cluster 선택
