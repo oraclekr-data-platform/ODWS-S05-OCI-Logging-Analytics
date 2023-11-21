@@ -26,6 +26,24 @@ ___
    
 - {name}_"dataplatform_grp로 이름 입력
 - "Create" 클릭
+
+#####  1. 환경 구성 > 3) Fields  정의 
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121175030.png)
+- Logging Analytics > Administration > Fields 선택
+- "Create Field" 클릭
+
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121175311.png)
+- Name : 적절한 이름을 입력 (예: livelab_key), Data Type: String 선택
+- "Create" 클릭
+  
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121175644.png)
+- Name : 적절한 이름을 입력 (예: livelab_value), Data Type: String 선택
+- "Create" 클릭
+#####  1. 환경 구성 > 4) Parser  정의 
+![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231121175938.png)
+
+- Logging Analytics > Administration > Parsers 선택
+- "Create Parser" 클릭
 #####  1. 환경 구성 > 3) Service Connector 연결을 통한 Logging Analytics 연결
 ![](assets/Logging%20Analytics%20HoL/Pasted%20image%2020231116231443.png)
 - Connector name 입력 : {name}-sch
